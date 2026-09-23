@@ -1,46 +1,77 @@
-# Hola, soy Beto Covarrubias 👋
+<h1 align="center">Beto Covarrubias</h1>
 
-Estudiante de Ingeniería de Software en la Universidad Autónoma de Querétaro (UAQ). Me especializo en el **desarrollo web**, diseño de **interfaces** y **bases de datos**. 
+<p align="center">
+  Estudiante de Ingeniería de Software<br>
+  Universidad Autónoma de Querétaro
+</p>
 
-Mi enfoque está en construir aplicaciones prácticas que resuelvan problemas reales, combinando el diseño centrado en el usuario con infraestructuras eficientes en la nube.
-
----
-
-### 🔹 Proyectos Destacados
-
-*   **[Proyecto_Automotriz](https://github.com/betocovave/Proyecto_Automotriz)**
-    Plataforma y dashboard orientado a la gestión de talleres mecánicos. Su arquitectura está conectada a la nube mediante servicios serverless para garantizar escalabilidad.
-    *Tecnologías: C#, JavaScript, Microsoft Azure (Serverless).*
-
-*   **[SafeRouteLanding](https://github.com/betocovave/SafeRouteLanding)**
-    Página de aterrizaje interactiva que prioriza una estructura visual clara y la experiencia del usuario final.
-    *Tecnologías: Desarrollo Web, UI/UX.*
-
-*   **[Menu_Portafolio](https://github.com/betocovave/Menu_Portafolio)**
-    Interfaz centralizada, limpia y accesible para la presentación y navegación de mis proyectos.
-    *Tecnologías: HTML/CSS, JavaScript.*
-
-*   **[JuegoClic](https://github.com/betocovave/JuegoClic)**
-    Aplicación web centrada en la lógica interactiva, manejo de eventos y manipulación del DOM.
-    *Tecnologías: JavaScript.*
+<p align="center">
+  Desarrollo web · Diseño de interfaces · Bases de datos
+</p>
 
 ---
 
-### 🔹 Tecnologías y Herramientas
+## Sobre mí
 
-**Desarrollo e Interfaces Web:**
-`JavaScript` • `HTML/CSS` • `Python` • `Flutter / Dart`
+Desarrollo aplicaciones web con enfoque en la experiencia del usuario, la organización de la información y la integración de servicios en la nube.
 
-**Backend, Infraestructura y Datos:**
-`C#` • `Microsoft Azure` (App Services, Functions, Cosmos DB, SQL Serverless) • `SQLite`
+Mi trabajo combina interfaces claras, lógica de aplicación y gestión de datos para resolver necesidades concretas. Complemento mis proyectos con formación en algoritmos, métodos numéricos y modelos de aprendizaje automático.
 
-**Entorno Académico y Algoritmia:**
-`GNU Octave` • `LaTeX` • Implementación de modelos de Machine Learning
+## Proyectos destacados
 
-> **Nota sobre mis repositorios:** Para mantener la claridad de mi portafolio, separo los proyectos desarrollados para aplicaciones prácticas (o hackathons) de mis prácticas universitarias estrictamente algorítmicas.
+### [Proyecto Automotriz](https://github.com/betocovave/Proyecto_Automotriz)
 
----
+Plataforma para la gestión de talleres mecánicos, con un dashboard e integración de servicios serverless en Microsoft Azure.
 
-### 🔹 Contacto
+**Tecnologías:** C# · JavaScript · Microsoft Azure
 
-Si quieres hablar sobre desarrollo de software, diseño de interfaces o infraestructura, puedes encontrarme en mi [Perfil de GitHub](https://github.com/betocovave).
+### [SafeRoute Landing](https://github.com/betocovave/SafeRouteLanding)
+
+Landing page interactiva centrada en la jerarquía visual, la claridad del contenido y la experiencia de navegación.
+
+**Enfoque:** Desarrollo web · Diseño de interfaces · UX
+
+### [Menú Portafolio](https://github.com/betocovave/Menu_Portafolio)
+
+Interfaz centralizada para presentar mis proyectos y facilitar el acceso a cada uno mediante una navegación clara y accesible.
+
+**Tecnologías:** HTML · CSS · JavaScript
+
+### [JuegoClic](https://github.com/betocovave/JuegoClic)
+
+Aplicación web interactiva que integra lógica de juego, manejo de eventos y manipulación del DOM.
+
+**Tecnologías:** JavaScript
+
+## Lenguajes y nivel de dominio
+
+| Lenguaje | Nivel | Indicador |
+| :--- | :--- | :--- |
+| HTML / CSS | Avanzado | `████████████` |
+| GNU Octave | Avanzado | `████████████` |
+| JavaScript | Intermedio | `████████░░░░` |
+| Python | Intermedio | `████████░░░░` |
+| C# | Básico | `████░░░░░░░░` |
+| Dart | Básico | `████░░░░░░░░` |
+
+*Niveles basados en mi autoevaluación: básico, intermedio y avanzado.*
+
+## Tecnologías y herramientas
+
+| Área | Tecnologías |
+| :--- | :--- |
+| Desarrollo de interfaces | Flutter |
+| Servicios en la nube | Microsoft Azure · App Services · Azure Functions |
+| Bases de datos | SQLite · Cosmos DB · SQL Serverless |
+| Documentación técnica | LaTeX |
+| Formación complementaria | Algoritmos · Métodos numéricos · Modelos de aprendizaje automático |
+
+## Organización de mis repositorios
+
+Mi portafolio reúne aplicaciones prácticas, proyectos de hackathons y trabajo académico. Distingo estos proyectos de las prácticas universitarias centradas en algoritmos y fundamentos de ingeniería de software.
+
+## Contacto
+
+Interesado en intercambiar ideas sobre desarrollo web, diseño de interfaces y servicios en la nube.
+
+[Perfil de GitHub — @betocovave](https://github.com/betocovave)
