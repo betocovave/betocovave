@@ -1,45 +1,46 @@
-<h1 align="center">Hola, soy Beto 👋</h1>
+# Hola, soy Beto Covarrubias 👋
 
-<p align="center">
-  Estudiante de Ingeniería de Software<br>
-  Me gusta convertir ideas en aplicaciones útiles y cuidar cómo se ven.
-</p>
+Estudiante de Ingeniería de Software en la Universidad Autónoma de Querétaro (UAQ). Me especializo en el **desarrollo web**, diseño de **interfaces** y **bases de datos**. 
 
-<p align="center">
-  <a href="https://github.com/betocovave?tab=repositories">
-    Explora mis proyectos
-  </a>
-</p>
+Mi enfoque está en construir aplicaciones prácticas que resuelvan problemas reales, combinando el diseño centrado en el usuario con infraestructuras eficientes en la nube.
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🔹 Proyectos Destacados
 
-- 🎓 Estudio en la Universidad Autónoma de Querétaro.
-- 💻 Me interesan el desarrollo web, las bases de datos y las interfaces.
-- 🛠️ Aprendo construyendo proyectos y experimentando con nuevas ideas.
-- 🌱 Busco mejorar tanto la lógica de mis aplicaciones como su diseño.
+*   **[Proyecto_Automotriz](https://github.com/betocovave/Proyecto_Automotriz)**
+    Plataforma y dashboard orientado a la gestión de talleres mecánicos. Su arquitectura está conectada a la nube mediante servicios serverless para garantizar escalabilidad.
+    *Tecnologías: C#, JavaScript, Microsoft Azure (Serverless).*
 
-### 🛠️ Tecnologías con las que trabajo
+*   **[SafeRouteLanding](https://github.com/betocovave/SafeRouteLanding)**
+    Página de aterrizaje interactiva que prioriza una estructura visual clara y la experiencia del usuario final.
+    *Tecnologías: Desarrollo Web, UI/UX.*
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+*   **[Menu_Portafolio](https://github.com/betocovave/Menu_Portafolio)**
+    Interfaz centralizada, limpia y accesible para la presentación y navegación de mis proyectos.
+    *Tecnologías: HTML/CSS, JavaScript.*
 
-### 🚀 Explora mi trabajo
+*   **[JuegoClic](https://github.com/betocovave/JuegoClic)**
+    Aplicación web centrada en la lógica interactiva, manejo de eventos y manipulación del DOM.
+    *Tecnologías: JavaScript.*
 
-| Proyecto | Repositorio |
-| :--- | :--- |
-| 🗺️ SafeRoute Landing | [Ver proyecto](https://github.com/betocovave/SafeRouteLanding) |
-| 🎮 JuegoClic | [Ver proyecto](https://github.com/betocovave/JuegoClic) |
-| 🚗 Proyecto Automotriz | [Ver proyecto](https://github.com/betocovave/Proyecto_Automotriz) |
-| 💼 Menú Portafolio | [Ver proyecto](https://github.com/betocovave/Menu_Portafolio) |
+---
 
-### 🎯 Mi enfoque
+### 🔹 Tecnologías y Herramientas
 
-Construir aplicaciones que funcionen bien, sean fáciles de usar
-y tengan una identidad visual propia.
+**Desarrollo e Interfaces Web:**
+`JavaScript` • `HTML/CSS` • `Python` • `Flutter / Dart`
+
+**Backend, Infraestructura y Datos:**
+`C#` • `Microsoft Azure` (App Services, Functions, Cosmos DB, SQL Serverless) • `SQLite`
+
+**Entorno Académico y Algoritmia:**
+`GNU Octave` • `LaTeX` • Implementación de modelos de Machine Learning
+
+> **Nota sobre mis repositorios:** Para mantener la claridad de mi portafolio, separo los proyectos desarrollados para aplicaciones prácticas (o hackathons) de mis prácticas universitarias estrictamente algorítmicas.
+
+---
+
+### 🔹 Contacto
+
+Si quieres hablar sobre desarrollo de software, diseño de interfaces o infraestructura, puedes encontrarme en mi [Perfil de GitHub](https://github.com/betocovave).
